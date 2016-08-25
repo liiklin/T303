@@ -1,4 +1,4 @@
 web:
-  build: .
+  image: index.alauda.cn/liiklin/t303
   ports:
     - "80:80"
